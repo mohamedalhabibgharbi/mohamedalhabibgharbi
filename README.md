@@ -3,7 +3,7 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-  - [Controls and compliance checklist Project](https://github.com/mohamedalhabibgharbi/compliance-controls-lab-project)
+  - [Controls and Compliance Lab Project](https://github.com/mohamedalhabibgharbi/compliance-controls-lab-project)
 
 <h2>📜 Certifications Projects:</h2>
 
