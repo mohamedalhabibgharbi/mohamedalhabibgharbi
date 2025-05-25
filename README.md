@@ -4,6 +4,11 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
   - [Controls and Compliance Lab Project](https://github.com/mohamedalhabibgharbi/compliance-controls-lab-project)
+  - [Lab Project: Troubleshooting DNS Failures with Tcpdump and ICMP Logs](https://github.com/mohamedalhabibgharbi/compliance-controls-lab-project)
+
+
+
+
 
 <h2>📜 Certifications Projects:</h2>
 
