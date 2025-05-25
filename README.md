@@ -3,8 +3,8 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-  - [Controls and Compliance Lab Project](https://github.com/mohamedalhabibgharbi/compliance-controls-lab-project)
-  - [Lab Project: Troubleshooting DNS Failures with Tcpdump and ICMP Logs](https://github.com/mohamedalhabibgharbi/compliance-controls-lab-project)
+  - [Lab Project1: Controls and Compliance](https://github.com/mohamedalhabibgharbi/compliance-controls-lab-project)
+  - [Lab Project2: Troubleshooting DNS Failures with Tcpdump and ICMP Logs](https://github.com/mohamedalhabibgharbi/compliance-controls-lab-project)
 
 
 
