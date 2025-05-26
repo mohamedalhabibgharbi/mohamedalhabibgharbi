@@ -7,11 +7,7 @@
   - [Lab Project2: Troubleshooting DNS Failures with Tcpdump and ICMP Logs](https://github.com/mohamedalhabibgharbi/Lab-Project2-Troubleshooting-DNS-Failures-with-Tcpdump-and-ICMP-Logs)
   - [Lab Project3: Apply OS hardening techniques](https://github.com/mohamedalhabibgharbi/Lab_Project3-Apply-OS-hardening-techniques)
   - [Lab Project4: Analysis of network hardening](https://github.com/mohamedalhabibgharbi/Analysis-of-network-hardening)
-
-
-
-
-
+  - [Lab Project5: Use the NIST Cybersecurity Framework to respond to a security incident](https://github.com/mohamedalhabibgharbi/Lab-Project5-Use-the-NIST-Cybersecurity-Framework-to-respond-to-a-security-incident)
 
 
 <h2>📜 Certifications Projects:</h2>
