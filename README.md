@@ -14,12 +14,12 @@
 
 <h2>📜 Certifications Projects:</h2>
 
-  - [CompTIA security+ S701:  May 2025 – May 2028]([qqqq](https://www.credly.com/badges/cfcd9270-82fb-40ed-9349-e219322792a5/public_url))
+  - [CompTIA security+ S701:  May 2025 – May 2028](https://www.credly.com/badges/cfcd9270-82fb-40ed-9349-e219322792a5/public_url)
   - [IBM Cybersecurity Analyst Professional Certificate (V2) – May 2025](https://www.credly.com/badges/d8b962ab-d751-44b5-9e76-676ccded83de/public_url)
   - [Cisco Cybersecurity Operations Fundamentals – May 2025](https://coursera.org/verify/professional-cert/7TVYE3U2AWOJ)
-  - [Google Cybersecurity Professional Certificate - April 2025](https://coursera.org/verify/professional-cert/O449QN8Q4VVN)
+  - [Google Cybersecurity Professional Certificate - April 2025](https://www.credly.com/badges/2d99a9f9-0b50-446e-89ab-137d53785c1a/public_url)
   - [EC-Council Cybersecurity Attack and Defense Fundamentals - April 2025](https://coursera.org/verify/professional-cert/FFFSB7XZC0MV)
-  - [Google IT Support Professional Certificate - November 2023](https://coursera.org/verify/professional-cert/7KRJQE62PZPH)
+  - [Google IT Support Professional Certificate - November 2023](https://www.credly.com/badges/0ffa8f20-024f-418f-a080-78cdbe392252/public_url)
 
 
 
