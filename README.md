@@ -6,6 +6,7 @@
   - [Lab Project1: Controls and Compliance](https://github.com/mohamedalhabibgharbi/compliance-controls-lab-project)
   - [Lab Project2: Troubleshooting DNS Failures with Tcpdump and ICMP Logs](https://github.com/mohamedalhabibgharbi/Lab-Project2-Troubleshooting-DNS-Failures-with-Tcpdump-and-ICMP-Logs)
   - [Lab Project3: Apply OS hardening techniques](https://github.com/mohamedalhabibgharbi/Lab_Project3-Apply-OS-hardening-techniques)
+  - [Lab Project4: Analysis of network hardening](https://github.com/mohamedalhabibgharbi/Analysis-of-network-hardening)
 
 
 
