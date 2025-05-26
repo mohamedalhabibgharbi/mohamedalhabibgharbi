@@ -9,6 +9,7 @@
   - [Lab Project4: Analysis of network hardening](https://github.com/mohamedalhabibgharbi/Analysis-of-network-hardening)
   - [Lab Project5: Use the NIST Cybersecurity Framework to respond to a security incident](https://github.com/mohamedalhabibgharbi/Lab-Project5-Use-the-NIST-Cybersecurity-Framework-to-respond-to-a-security-incident)
   - [Lab Project6: Apply filters to SQL queries](https://github.com/mohamedalhabibgharbi/Lab-Project6-Apply-filters-to-SQL-queries)
+  - [Lab Project7: Score risks based on their likelihood and severity](https://github.com/mohamedalhabibgharbi/Lab-Project7-Score-risks-based-on-their-likelihood-and-severity)
 
 
 <h2>📜 Certifications Projects:</h2>
