@@ -17,7 +17,7 @@
   - [Lab Project12: Document an incident with an incident handler's journal](https://github.com/mohamedalhabibgharbi/Lab-Project12-Document-an-incident-with-an-incident-handler-s-journal)
   - [Lab Project13: Investigate a suspicious file hash using VirusTotal](https://github.com/mohamedalhabibgharbi/Lab-Project13-Investigate-a-suspicious-file-hash-using-VirusTotal)
   - [Lab Project14: Use a playbook to respond to a phishing incident](https://github.com/mohamedalhabibgharbi/Lab-Project14-Use-a-playbook-to-respond-to-a-phishing-incident)
-  - [ABC](yyyy)
+
 
 
 <h2>📜 Certifications Projects:</h2>
