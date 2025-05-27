@@ -15,7 +15,7 @@
   - [Lab Project10: Social Engineering Case Study - USB Drop Scenario](https://github.com/mohamedalhabibgharbi/Lab-Project10-Social-Engineering-Case-Study---USB-Drop-Scenario)
   - [Lab Project11: Public Database Vulnerability Assessment](https://github.com/mohamedalhabibgharbi/Public-Database-Vulnerability-Assessment)
   - [Lab Project12: Document an incident with an incident handler's journal](https://github.com/mohamedalhabibgharbi/Lab-Project12-Document-an-incident-with-an-incident-handler-s-journal)
-  - [ABC](yyyy)
+  - [Lab Project13: Investigate a suspicious file hash using VirusTotal](https://github.com/mohamedalhabibgharbi/Lab-Project13-Investigate-a-suspicious-file-hash-using-VirusTotal)
   - [ABC](yyyy)
   - [ABC](yyyy)
 
