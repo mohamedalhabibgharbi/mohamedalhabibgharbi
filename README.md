@@ -14,6 +14,9 @@
   - [Lab Project9: Access Control Incident Analysis](https://github.com/mohamedalhabibgharbi/Lab-Project9-Access-Control-Incident-Analysis)
   - [Lab Project10: Social Engineering Case Study - USB Drop Scenario](https://github.com/mohamedalhabibgharbi/Lab-Project10-Social-Engineering-Case-Study---USB-Drop-Scenario)
   - [Lab Project11: Public Database Vulnerability Assessment](https://github.com/mohamedalhabibgharbi/Public-Database-Vulnerability-Assessment)
+  - [Lab Project12: Document an incident with an incident handler's journal](https://github.com/mohamedalhabibgharbi/Lab-Project12-Document-an-incident-with-an-incident-handler-s-journal)
+  - [ABC](yyyy)
+  - [ABC](yyyy)
   - [ABC](yyyy)
 
 
