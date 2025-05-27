@@ -13,7 +13,7 @@
   - [Lab Project8: Data Leak Case Study - NIST SP 800-53 AC-6 Implementation](https://github.com/mohamedalhabibgharbi/Lab-Project8-Data-Leak-Case-Study---NIST-SP-800-53-AC-6-Implementation)
   - [Lab Project9: Access Control Incident Analysis](https://github.com/mohamedalhabibgharbi/Lab-Project9-Access-Control-Incident-Analysis)
   - [Lab Project10: Social Engineering Case Study - USB Drop Scenario](https://github.com/mohamedalhabibgharbi/Lab-Project10-Social-Engineering-Case-Study---USB-Drop-Scenario)
-  - [ABC](yyyy)
+  - [Lab Project11: Public Database Vulnerability Assessment](https://github.com/mohamedalhabibgharbi/Public-Database-Vulnerability-Assessment)
   - [ABC](yyyy)
 
 
