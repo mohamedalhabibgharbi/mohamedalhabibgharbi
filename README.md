@@ -24,9 +24,10 @@
 
 
 
-<h2> 🤳 Connect with me:</h2>
+<h2>🤳 Connect with me:</h2>
 
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-[linkedin]: https://linkedin.com/in/mohamed-alhabib-gharbi
+🔗 **LinkedIn:** [linkedin.com/in/mohamed-alhabib-gharbi](https://linkedin.com/in/mohamed-alhabib-gharbi)  
+📧 **Email:** [gmohamedalhabib@gmail.com](mailto:gmohamedalhabib@gmail.com)  
+📞 **Phone:** +974 33970265  
+💬 **WhatsApp:** [Chat on WhatsApp](https://wa.me/97433970265)
 
