@@ -11,7 +11,7 @@
   - [Lab Project6: Apply filters to SQL queries](https://github.com/mohamedalhabibgharbi/Lab-Project6-Apply-filters-to-SQL-queries)
   - [Lab Project7: Score risks based on their likelihood and severity](https://github.com/mohamedalhabibgharbi/Lab-Project7-Score-risks-based-on-their-likelihood-and-severity)
   - [Lab Project8: Data Leak Case Study - NIST SP 800-53 AC-6 Implementation](https://github.com/mohamedalhabibgharbi/Lab-Project8-Data-Leak-Case-Study---NIST-SP-800-53-AC-6-Implementation)
-  - [ABC](yyyy)
+  - [Lab Project9: Access Control Incident Analysis](https://github.com/mohamedalhabibgharbi/Lab-Project9-Access-Control-Incident-Analysis)
   - [ABC](yyyy)
   - [ABC](yyyy)
   - [ABC](yyyy)
