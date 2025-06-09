@@ -19,6 +19,7 @@
   - [Lab Project14: Use a playbook to respond to a phishing incident](https://github.com/mohamedalhabibgharbi/Lab-Project14-Use-a-playbook-to-respond-to-a-phishing-incident)
   - [Lab Project15: Update a file through a Python algorithm](https://github.com/mohamedalhabibgharbi/Lab-Project15-Update-a-file-through-a-Python-algorithm)
   - [Lab Project16: Wireshark Network Traffic Analysis](https://github.com/mohamedalhabibgharbi/Lab-Project16-Wireshark-Network-Traffic-Analysis)
+  - [Lab Project17: TCPDump Fundamentals](https://github.com/mohamedalhabibgharbi/Lab-Project17-TCPDump-Fundamentals)
 
 
 
