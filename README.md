@@ -18,6 +18,7 @@
   - [Lab Project13: Investigate a suspicious file hash using VirusTotal](https://github.com/mohamedalhabibgharbi/Lab-Project13-Investigate-a-suspicious-file-hash-using-VirusTotal)
   - [Lab Project14: Use a playbook to respond to a phishing incident](https://github.com/mohamedalhabibgharbi/Lab-Project14-Use-a-playbook-to-respond-to-a-phishing-incident)
   - [Lab Project15: Update a file through a Python algorithm](https://github.com/mohamedalhabibgharbi/Lab-Project15-Update-a-file-through-a-Python-algorithm)
+  - [Lab Project16: Wireshark Network Traffic Analysis](sdfsdfsdf)
 
 
 
