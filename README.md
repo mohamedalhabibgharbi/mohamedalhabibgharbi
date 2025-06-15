@@ -21,6 +21,7 @@
   - [Lab Project16: Wireshark Network Traffic Analysis](https://github.com/mohamedalhabibgharbi/Lab-Project16-Wireshark-Network-Traffic-Analysis)
   - [Lab Project17: TCPDump Fundamentals](https://github.com/mohamedalhabibgharbi/Lab-Project17-TCPDump-Fundamentals)
   - [Lab Project18: Nmap for Network Analysis](https://github.com/mohamedalhabibgharbi/Lab-Project18-Nmap-for-Network-Analysis)
+  - [Lab Project19: Supicious Job Offer Osint Analysis](https://github.com/mohamedalhabibgharbi/Lab-Project19-Supicious-Job-Offer-Osint-Analysis)
 
 
 
